@@ -1,0 +1,4 @@
+- �  Salut, je suis @NerZax
+- 👀 Je suis intéresser par apprendre à développer sur la plateforme "FiveM"
+- 🌱 J'apprend actuellement à devenir dévellopeur sur "FiveM"
+- 📫 Comment me joindre: ajoutez moi sur discord "NerZax#8878"
