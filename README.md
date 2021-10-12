@@ -1,4 +1,6 @@
-- �  Salut, je suis @NerZax
-- 👀 Je suis intéresser par apprendre à développer sur la plateforme "FiveM"
-- 🌱 J'apprend actuellement à devenir dévellopeur sur "FiveM"
-- 📫 Comment me joindre: ajoutez moi sur discord "NerZax#8878"
+Installation:
+- Télécharger mon fichier GitHub
+- Importé mon fichier dans votre dossier ressource
+- Mettre dans votre serveur.cfg start esx_drugs_nerzax
+- Vous pouvez modifier certainee chos dans le dossier config.lua
+- Maintenant vous êtes prêt à jouer avec mon esx_drugs
